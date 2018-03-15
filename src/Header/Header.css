@@ -1,0 +1,15 @@
+.Header {
+}
+
+.Header-nav {
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.Header-nav-item {
+  padding: 5px 10px;
+}
